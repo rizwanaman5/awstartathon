@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.pic {
+  background-image: url(./roomUploading/undraw_for_sale_viax.png);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.form {
+  box-shadow: 1px 1px 3px 3px #ddd;
+  padding: 3%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  border-radius: 20px;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 15px;
+}
+.toggleDiv {
+  box-shadow: 1px 1px 3px 3px #ddd;
+  border-radius: 20px;
+  padding: 1%;
+  padding-left: 4%;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 15px;
+}
